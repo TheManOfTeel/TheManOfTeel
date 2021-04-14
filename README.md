@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheManOfTeel
 - 👀 I’m interested in web development
-- 🌱 Currently I'm working in web delopment utilizing an Angular framework, a C# backend, and a SQL server
+- ⌚ Currently I'm working in web delopment utilizing an Angular framework, a C# backend, and a SQL server
 - 👨🏻‍💻 I have experience coding in C++, C#, CSS3, HTML5, Java, JavaScript, Python, SAS, TypeScript, and Visual Basic .NET
 - 💞️ I’m looking to collaborate on web applications that benefit a broad audience
 - 📫 How to reach me - message me via LinkedIn
