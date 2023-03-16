@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🏢 I'm currently working in web delopment as a Full Stack Engineer using JavaScript, C#, and a SQL server
 - 👨🏻‍💻 I have experience coding in C++, C#, Java, JavaScript, Python, SAS, TypeScript, and Visual Basic .NET
-- 💞️ I’m looking to collaborate on web applications that add tremendous value to users
 - 📫 How to reach me - message me via LinkedIn
 - 🚧 Code history is incomplete - previously I had multiple accounts and lost a years worth of commit history from April 2020 to February 2021 after deleting one of them with a private email address. This account was previously a personal only account and it is now my primary and only account
 
